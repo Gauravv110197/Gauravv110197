@@ -51,11 +51,6 @@ I'm a first-year **Electronics & Communication Engineering (ECE)** student inter
 * Diodes & Transistors
 * VLSI
 * IC Fabrication
-* Embedded Systems
-* Arduino
-* ESP8266
-* ESP32
-* IoT
 
 ### 🧰 Tools
 
